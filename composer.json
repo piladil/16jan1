@@ -1,4 +1,6 @@
-
+# edit composer.json
+php composer.phar install
+# edit .gitignore so that the vendor dir is not under version control
 {
     "repositories": [
         {
@@ -7,6 +9,4 @@
         }
     ]
 }
-# edit composer.json
-php composer.phar install
-# edit .gitignore so that the vendor dir is not under version control
+
