@@ -1,0 +1,8 @@
+{
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://satis.united-asian.com/uam"
+        }
+    ]
+}
